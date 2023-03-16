@@ -1,0 +1,10 @@
+﻿{
+  "name": "Johannes",
+  "age": 34.9,
+  "isTeacher": true,
+  "parents": [ "Waltraud", "Rudolf" ],
+  "preferences": {
+    "theme": "dark",
+    "language": [ "en", "de" ]
+  }
+}
